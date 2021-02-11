@@ -1,0 +1,32 @@
+
+$grayColor: #6e7373;
+$blueColor: #593eff;
+
+@font-face {
+    font-family: myRegularFont;
+    src: url(../fonts/JosefinSans-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: myThinFont;
+    src: url(../fonts/JosefinSans-Thin.ttf);
+}
+
+
+
+@font-face {
+    font-family: myLightFont;
+    src: url(../fonts/JosefinSans-Light.ttf);
+}
+
+*::selection {
+    background-color: $grayColor;
+    color: #fff;
+}
+
+body {
+    height: 6000px;
+    font-family: myRegularFont;
+    position: relative;
+}

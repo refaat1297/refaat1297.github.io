@@ -11,7 +11,7 @@
 <img align="right" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" width="500px" alt="Front End Developer"/>
 
 - 🔭 I’m currently working @ [Boostiny](https://boostiny.com)
-- 👨‍💻 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue. Take a look at my work. 
+- 👨‍💻 I specialize in JavaScript and have professional experience working with Vue. Take a look at my work. 
 - :nerd_face: Always `Learning New Things`
 - 👷‍♂️ Doing my best 
 
